@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=Roboto:ital,wght@0,100;0,300;0,700;1,100;1,300;1,700&display=swap");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css");
+
+body {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    /* font-weight: 500; */
+}
+
+.lista-prendas {
+    font-size: 2rem;
+}
+
+h1{
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(76, 150, 12);
+    margin-top: 20px;
+}
+.container{
+    display: flex;
+    max-width: 80%;
+    margin: 0px 0px 0px 100px;
+    justify-content: center;
+
+}
+
+.container h2{
+    font-size: 14px;
+    text-align: center;
+    color: black;
+}
+
+.container p{
+        font-size: 14px;
+        text-align: center;
+        color: blue;
+        font-weight: 700;
+}
+
+ .categoria{
+    text-align: center;
+    align-items: center;
+}
+
+.tarjetas{
+    margin-left: 10px;
+    border: 1px solid rgb(224, 222, 222);
+}
+
+img{
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
